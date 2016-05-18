@@ -9,6 +9,7 @@ composer update
 
 # Example for use Benchmark
 <?php
+
 include 'vendor/autoload.php';
 
 use Benchmark\Bench;
