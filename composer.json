@@ -1,5 +1,6 @@
 {
 	"name": "danelsan/benchmark",
+	"license": "GPL-3.0+",
 	"version": "1.0",
 	"description": "Benchmark Library",
 	"autoload": {
