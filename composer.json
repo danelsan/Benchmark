@@ -1,0 +1,8 @@
+{
+	"name": "library/benchmark",
+	"version": "1.0",
+	"description": "Benchmark Library",
+	"autoload": {
+		"classmap": ["src/"]
+    	}
+}
