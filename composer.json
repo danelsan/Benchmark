@@ -1,5 +1,5 @@
 {
-	"name": "library/benchmark",
+	"name": "danelsan/library/benchmark",
 	"version": "1.0",
 	"description": "Benchmark Library",
 	"autoload": {
